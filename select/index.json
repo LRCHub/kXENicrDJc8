@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Keep the faith",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-03-23T02:30:36.253278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Keep_the_Faith_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep The Faith",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Keep_The_Faith_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/03_Keep_the_Faith_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep The Faith - Live (2000/New York)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/04_Keep_The_Faith_-_Live_(2000_New_York)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep The Faith (New York City, USA 2000)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/05_Keep_The_Faith_(New_York_City,_USA_2000)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_Keep_the_Faith_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/07_Keep_the_Faith_Bon_Jovi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Special D.",
+      "has_synced": true,
+      "path": "select/08_Keep_the_Faith_Special_D..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep the Faith Alive",
+      "artist": "Robin Loxley feat. Jay Hawke",
+      "has_synced": true,
+      "path": "select/09_Keep_the_Faith_Alive_Robin_Loxley_feat._Jay_Hawke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep The Faith Alive",
+      "artist": "Robin Loxley & Jay Hawke",
+      "has_synced": true,
+      "path": "select/10_Keep_The_Faith_Alive_Robin_Loxley_&_Jay_Hawke.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep The Faith",
+      "artist": "Black Oak Arkansas",
+      "has_synced": true,
+      "path": "select/11_Keep_The_Faith_Black_Oak_Arkansas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keep the Faith (Live At Paramount Theater, Portland, 12/1/1972) (Remastered)",
+      "artist": "Black Oak Arkansas",
+      "has_synced": false,
+      "path": "select/12_Keep_the_Faith_(Live_At_Paramount_Theater,_Portland,_12_1_1972)_(Remastered)_Black_Oak_Arkansas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep The Faith (Live At Paramount Theater, Portland, 12/1/1972) [2007 Remastered Version]",
+      "artist": "Black Oak Arkansas",
+      "has_synced": false,
+      "path": "select/13_Keep_The_Faith_(Live_At_Paramount_Theater,_Portland,_12_1_1972)_[2007_Remastered_Black_Oak_Arkansas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_Keep_the_Faith_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep the Faith",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/15_Keep_the_Faith_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep The Faith",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/16_Keep_The_Faith_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Keep The Faith - Live Version",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/17_Keep_The_Faith_-_Live_Version_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep the faith",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_the_faith_KAT-TUN.txt"
+    }
+  ]
+}
